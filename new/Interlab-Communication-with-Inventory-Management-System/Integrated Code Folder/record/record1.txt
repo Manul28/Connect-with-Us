@@ -1,4 +1,0 @@
-Transistor Equipment
-from: INMAS New Delhi
-to: CARS Bangalore
-date:31/8/2023

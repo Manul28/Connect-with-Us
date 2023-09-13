@@ -1,3 +1,0 @@
-Electric Equipment
-FROM: ADRDE Agra
-TO: INMAS New Delhi
